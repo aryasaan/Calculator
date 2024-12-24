@@ -12,8 +12,13 @@ Requirements
 [Specify programming language/framework, e.g., HTML, CSS JS REACTJS, Node.js, etc.]
 
 Additional libraries or frameworks as needed.
-</br></br>
+<br>
+Install dependencies:
+<pre>  npm install 
+  npm start
+</pre>
 
+</br></br>
 ![calc](https://github.com/aryasaan/Calculator/assets/109032897/8c4e683b-6d79-400e-abe0-0867ddd79857)
 
 
