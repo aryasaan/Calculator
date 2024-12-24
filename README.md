@@ -1,9 +1,6 @@
 # **Calculator.**
 A simple and user-friendly Calculator application for basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-Features
-Perform basic arithmetic operations.
-
 Intuitive user interface.
 
 Compatible with multiple platforms.
