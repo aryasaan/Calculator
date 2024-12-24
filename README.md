@@ -11,8 +11,8 @@ Requirements
 Additional libraries or frameworks as needed.
 <br>
 Install dependencies:
-<pre>  npm install 
-  npm start
+<pre> . npm install 
+ . npm start
 </pre>
 
 </br></br>
